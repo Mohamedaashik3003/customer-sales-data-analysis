@@ -33,5 +33,7 @@ This project explores sales data and uses machine learning models to predict sal
 ## Project Notebook
 See the Jupyter Notebook (`.ipynb`) in this repository for the implementation, analysis, and model evaluation results.
 
-## Author
-Mohamed Aashik M.
+
+## Project Report
+
+[View Sales Analysis PDF](./cust%20sales%20pred%20and%20analysis.pdf)
